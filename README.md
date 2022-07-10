@@ -1,0 +1,1 @@
+kaggleとかsignateとかnishikaのコンペで使った分析ファイルです。
